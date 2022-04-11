@@ -52,6 +52,7 @@ filename=$2
 case $prog_lang in 
     "c") 
         suffix="c"
+        linenumber=5
         ;;
 
     "cc"|"cpp"|"c++")
@@ -61,10 +62,12 @@ case $prog_lang in
 
     "rs"|"rust")
         suffix="rs"
+        linenumber=4
         ;;
 
     "py"|"python") 
         suffix="py"
+        linenumber=2
         ;;
 
     *) 
