@@ -14,7 +14,7 @@
  Check Bits
 | Check if | Code |
 | --- | ---- |
-| Nth bit is set | `x & n > 0` | 
+| Last bit is set | `x & 1` | 
 
 # Axioms
 - A power of two contains just one 1-bit
