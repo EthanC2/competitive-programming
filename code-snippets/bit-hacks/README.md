@@ -17,9 +17,9 @@
 | Last bit is set | `x & 1` | 
 
 # Common Math
-| Math | Code | 
-| ---- | ---- | 
-| Power of Two | `x & (-x) == x` |
+| Math | Code | Assumes |
+| ---- | ---- | ------- |
+| Power of Two | `x & (-x) == x` | `x != 0` |
 
 # Axioms
 - A power of two contains just one 1-bit
