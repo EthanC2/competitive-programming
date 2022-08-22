@@ -11,7 +11,7 @@
 | --- | ---- |
 | Last bit to 0 | `x & (x-1)` |
 
- Check Bits
+# Check Bits
 | Check if | Code |
 | --- | ---- |
 | Last bit is set | `x & 1` | 
