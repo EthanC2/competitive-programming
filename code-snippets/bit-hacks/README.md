@@ -1,5 +1,6 @@
 # Getting Bits
-| Get | Code |  
+| Get | Code |
+| --- | ---- |
 | Right-most bit | `x & -x` |
 
 
