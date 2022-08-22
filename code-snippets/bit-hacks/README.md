@@ -1,3 +1,6 @@
+# Key 
+- `x` represents any integer variable
+
 # Getting Bits
 | Get | Code |
 | --- | ---- |
