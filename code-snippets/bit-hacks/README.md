@@ -1,6 +1,10 @@
 # Getting Bits
-- Get right-most bit: `x & -x`
+| Get | Code |  
+| Right-most bit | `x & -x` |
+
 
 
 # Setting Bits
-- Set last bit to 0: `x & (x-1)`
+| Set | Code |
+| --- | ---- |
+| Last bit to 0 | `x & (x-1)` |
