@@ -4,7 +4,7 @@
 # Getting Bits
 | Get | Code |
 | --- | ---- |
-| Right-most bit | `x & -x` |
+| Right-most 1-bit | `x & -x` |
 
 # Setting Bits
 | Set | Code |
